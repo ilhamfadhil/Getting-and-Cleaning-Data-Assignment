@@ -1,4 +1,4 @@
-The variables in the tidy data
+## The variables in the tidy data
 
 Tidy data contains 180 rows and 68 columns. Each row has averaged
 variables for each subject and each activity. Only all the variables
@@ -91,7 +91,7 @@ columns (66 variables and activity labels).
 67. fBodyBodyGyroJerkMag-mean()
 68. fBodyBodyGyroJerkMag-std()
 
-variable units
+## variable units
 
 Activity and subject variable is integer type. All the other variables
 are numeric type.
